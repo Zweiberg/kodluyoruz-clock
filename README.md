@@ -1,0 +1,1 @@
+![img](javascriptclock/../images/clock.png)
